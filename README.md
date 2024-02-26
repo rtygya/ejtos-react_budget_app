@@ -8,4 +8,4 @@ In this React Budget Allocation app, you will learn how to break down a UI into 
 * Render the created components and context in App.js.
 * View your app on the browser.
 
-### Done as part of IBM Full Stack Developer Certification course
+Done as part of IBM Full Stack Developer Certification course
